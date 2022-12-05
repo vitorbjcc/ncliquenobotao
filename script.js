@@ -17,8 +17,6 @@ function video() {
     btn.style.height = '0px';
     
     btn.textContent = '';
-    
-    btn.style.
 
     Thevideo.setAttribute('src', 'video.mp4');
 
