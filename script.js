@@ -17,6 +17,10 @@ function video() {
     btn.style.height = '0px';
     
     btn.textContent = '';
+    
+    btn.style.border = 0;
+    
+    btn.style.background = '#fff';
 
     Thevideo.setAttribute('src', 'video.mp4');
 
