@@ -10,7 +10,7 @@ function video() {
 
     const divRes = document.querySelector('div#res');
 
-    Thevideo.setAttribute('src', 'videos/video.mp4');
+    Thevideo.setAttribute('src', 'video.mp4');
 
     Thevideo.setAttribute('width', '500');
 
