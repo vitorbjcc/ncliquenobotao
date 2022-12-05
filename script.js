@@ -1,6 +1,6 @@
 const Thevideo = document.createElement('video');
 
-let btn = document.getElementsByTag('button')[0];
+let btn = document.getElementsByTagName('button')[0];
 
 function unpause() {
 
