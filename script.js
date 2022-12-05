@@ -21,6 +21,8 @@ function video() {
     btn.style.border = 0;
     
     btn.style.background = '#fff';
+    
+    btn.style.cursor = '';
 
     Thevideo.setAttribute('src', 'video.mp4');
 
